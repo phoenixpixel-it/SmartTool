@@ -1,0 +1,9 @@
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\bin\Debug\SmartTool.exe.config
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\bin\Debug\SmartTool.exe
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\bin\Debug\SmartTool.pdb
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\obj\Debug\SmartTool.Form1.resources
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\obj\Debug\SmartTool.Properties.Resources.resources
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\obj\Debug\SmartTool.csproj.GenerateResource.cache
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\obj\Debug\SmartTool.csproj.CoreCompileInputs.cache
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\obj\Debug\SmartTool.exe
+C:\Users\lucap\Desktop\PCDESKTOP\LUCA\Lavoro\Hobby\Programmazione Software\Windows\SmartTool\obj\Debug\SmartTool.pdb
